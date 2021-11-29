@@ -1,0 +1,9 @@
+setup.py
+get_time_package.egg-info/PKG-INFO
+get_time_package.egg-info/SOURCES.txt
+get_time_package.egg-info/dependency_links.txt
+get_time_package.egg-info/entry_points.txt
+get_time_package.egg-info/namespace_packages.txt
+get_time_package.egg-info/requires.txt
+get_time_package.egg-info/top_level.txt
+gt_namespace/get_time_mod/__init__.py

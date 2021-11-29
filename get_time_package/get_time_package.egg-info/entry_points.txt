@@ -1,0 +1,3 @@
+[console_scripts]
+get_time = gt_namespace.get_time_mod:script_fun
+
