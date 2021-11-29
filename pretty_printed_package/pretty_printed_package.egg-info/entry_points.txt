@@ -1,3 +1,0 @@
-[console_scripts]
-get_time_pp = gt_namespace.pretty_print_mod:main
-

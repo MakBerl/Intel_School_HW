@@ -1,9 +1,0 @@
-setup.py
-gt_namespace/pretty_print_mod/__init__.py
-pretty_printed_package.egg-info/PKG-INFO
-pretty_printed_package.egg-info/SOURCES.txt
-pretty_printed_package.egg-info/dependency_links.txt
-pretty_printed_package.egg-info/entry_points.txt
-pretty_printed_package.egg-info/namespace_packages.txt
-pretty_printed_package.egg-info/requires.txt
-pretty_printed_package.egg-info/top_level.txt
